@@ -1,0 +1,1 @@
+export { StartingScreen } from './StartingScreen';

@@ -1,0 +1,1 @@
+export { tabBarIconHandler } from './tabBarIconHandler';

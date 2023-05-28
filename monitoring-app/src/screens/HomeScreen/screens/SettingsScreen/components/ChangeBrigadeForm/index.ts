@@ -1,0 +1,1 @@
+export {ChangeBrigadeForm} from './ChangeBrigadeForm';

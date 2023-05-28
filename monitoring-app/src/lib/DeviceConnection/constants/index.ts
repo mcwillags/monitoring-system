@@ -1,0 +1,1 @@
+export { allowedDevices } from './allowedDevices';

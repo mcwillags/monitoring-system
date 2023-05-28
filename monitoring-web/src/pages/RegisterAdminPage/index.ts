@@ -1,0 +1,1 @@
+export { RegisterAdminPage } from './RegisterAdminPage';

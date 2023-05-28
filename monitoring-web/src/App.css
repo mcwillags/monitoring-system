@@ -1,0 +1,63 @@
+html {
+  min-height: 100%;
+  height: 100%;
+  font-size: 18px;
+}
+
+:root {
+  --appFontSize: 1rem;
+  --containerWidth: 1600px;
+}
+
+body {
+  min-height: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-size: var(--appFontSize);
+
+  --text-medium: hsl(210, 8%, 25%);
+
+  --opacity-xs: .9;
+  --opacity-sm: .75;
+  --opacity-xl: .55;
+
+  --gray-400: hsl(0, 0%, 98%);
+  --gray-500: hsl(0,0%, 96%);
+  --gray-600: hsl(0,0%, 92%);
+  --gray-700: hsl(0,0%, 88%);
+  --gray-800: hsl(0,0%, 84%);
+
+  --gray-md: hsl(0, 0%, 74%);
+  --gray-xl: hsl(0, 0%, 66%);
+
+  --white: hsl(0, 0%, 100%);
+
+  --black-transparent-600: hsl(0, 0%, 25%, 65%);
+  --black-600: hsl(0, 0%, 25%);
+  --black-700: hsl(0, 0%, 30%);
+  --black: hsl(0, 0%, 0%);
+
+  --red-500: hsl(358, 59%, 63%);
+  --red-600: hsl(358, 61%, 47%);
+  --red-700: hsl(358, 63%, 41%);
+
+  --orange-transparent-400: hsl(27, 87%, 72%, 20%);
+  --orange-transparent-500: hsl(27, 95%, 85%, 25%);
+  --orange-500: hsl(27, 87%, 72%);
+  --orange-600: hsl(27, 89%, 65%);
+  --orange-700: hsl(27, 91%, 55%);
+  --orange-800: hsl(27, 95%, 39%);
+
+  --blue-400: hsl(216, 95%, 77%);
+  --blue-500: hsl(216, 90%, 64%);
+  --blue-600: hsl(214, 90%, 57%);
+  --blue-700: hsl(214, 90%, 46%);
+
+  --shadow-dark-500: hsl(0, 0%, 0%, 15%);
+  --shadow-dark-600: hsl(0, 0%, 0%, 35%);
+  --shadow-dark-700: hsl(0, 0%, 0%, 50%);
+}
+
+#root {
+  min-height: 100%;
+  height: 100%;
+}

@@ -1,0 +1,1 @@
+export { ConnectedDevice } from './ConnectedDevice';
